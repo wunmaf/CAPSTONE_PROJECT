@@ -1,7 +1,7 @@
 
 ## DESCRIPTION
 WeServe is a call service agency that outsources customer service personnels to several companies.
-This Porpose of this project is to conduct data cleaning,data extraction,transformation and loading of Weserve data from Database to a data warehouse using AWS.
+The Purpose of this project is to conduct data cleaning,data extraction,transformation and loading of Weserve data from Database to a data warehouse using AWS.
 
 ## TOOLS USED
 -PostgreSql
